@@ -1,0 +1,34 @@
+Github link : https://github.com/sivakumar999/PracticeProject4.git
+
+Creating API 
+
+Create a New ASP.NET Project:
+
+In Visual Studio.
+Click on "Create a new project."
+Choose "ASP.NET Core Web Application."
+Select API Project Template:
+
+Select the "Asp.net Core API" template.
+It will create need modules in th project for api
+
+Define Your API Models:
+
+Define the data models that your API will use. These represent the structure of the data you'll be working with.
+
+Create Controllers:
+
+In your project, navigate to the "Controllers" folder (or create one if it doesn't exist).
+Right-click, and select "Add > Controller."
+Choose "API Controller 
+
+
+Implement API Endpoints:
+
+In the controller, create methods for each of the API endpoints you need (e.g., GET, POST, PUT, DELETE).
+Use attributes like [HttpGet], [HttpPost], etc., to specify the type of request each method should handle.
+
+Finally test the api using Swagger 
+
+check different routes.
+
